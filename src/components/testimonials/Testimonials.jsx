@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/Snapinsta.app_328485570_146712997905331_6752234153796869387_n_1080.jpg'
+import AVTR1 from '../../assets/avatar2.jpg'
 import AVTR2 from '../../assets/images.jpeg'
 import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar2.jpg'
+import AVTR4 from '../../assets/b7a45b2eee55312d46fbd3153b3999b1.jpg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
